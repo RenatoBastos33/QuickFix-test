@@ -10,7 +10,7 @@ using QuickFix.Fields;
 
 namespace Executor
 {
-    public class Executor : QuickFix.MessageCracker, QuickFix.IApplication
+    public class Accumulator : QuickFix.MessageCracker, QuickFix.IApplication
     {
         Dictionary<string, decimal> exposition = new Dictionary<string, decimal>();
 

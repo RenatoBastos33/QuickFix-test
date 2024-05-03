@@ -23,7 +23,7 @@ namespace TradeClient
             try
             {
                 SessionSettings settings = new SessionSettings(file);
-                TradeClientApp application = new TradeClientApp();
+                Generator application = new Generator();
                 IMessageStoreFactory storeFactory = new FileStoreFactory(settings);
                 NullLogFactory logFactory = new NullLogFactory();
                 QuickFix.Transport.SocketInitiator initiator = new QuickFix.Transport.SocketInitiator(application, storeFactory, settings, logFactory);

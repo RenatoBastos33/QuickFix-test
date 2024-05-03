@@ -7,7 +7,7 @@ using QuickFix.FIX44;
 
 namespace TradeClient
 {
-    public class TradeClientApp : QuickFix.MessageCracker, QuickFix.IApplication
+    public class Generator : QuickFix.MessageCracker, QuickFix.IApplication
     {
         Session? _session = null;
 
