@@ -1,0 +1,28 @@
+20240502-23:37:14.070 : connected
+20240502-23:37:24.074 : Error on Session 'FIX.4.4:EXECUTOR->CLIENT1': System.Collections.Generic.KeyNotFoundException: The given key 'VALE3' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Executor.Executor.IsExpositionValid(NewOrderSingle order) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 169
+   at Executor.Executor.ProcessOrder(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 62
+   at Executor.Executor.OnMessage(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 54
+   at QuickFix.MessageCracker.Crack(Message message, SessionID sessionID)
+   at Executor.Executor.FromApp(Message message, SessionID sessionID) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 35
+   at QuickFix.Session.Verify(Message msg, Boolean checkTooHigh, Boolean checkTooLow)
+   at QuickFix.Session.Verify(Message message)
+   at QuickFix.Session.Next(MessageBuilder msgBuilder)
+   at QuickFix.Session.NextMessage(String msgStr)
+   at QuickFix.Session.Next(String msgStr)
+   at QuickFix.SocketReader.OnMessageFound(String msg)
+20240502-23:37:27.286 : shutdown requested: reactor is shutting down
+20240502-23:37:28.086 : SocketReader Error: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.Strategies.BufferedFileStreamStrategy.Seek(Int64 offset, SeekOrigin origin)
+   at System.IO.FileStream.Seek(Int64 offset, SeekOrigin origin)
+   at QuickFix.FileStore.Set(UInt64 msgSeqNum, String msg)
+   at QuickFix.SessionState.Set(UInt64 msgSeqNum, String msg)
+   at QuickFix.Session.Persist(Message message, String messageString)
+   at QuickFix.Session.SendRaw(Message message, UInt64 seqNum)
+   at QuickFix.Session.GenerateLogout(Message other, String text)
+   at QuickFix.Session.GenerateLogout(String text)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20240502-23:37:28.086 : shutdown requested: Cannot access a closed Stream.
+20240502-23:37:28.087 : shutdown

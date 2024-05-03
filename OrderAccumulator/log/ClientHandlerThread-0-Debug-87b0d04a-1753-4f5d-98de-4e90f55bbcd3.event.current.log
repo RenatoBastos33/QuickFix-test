@@ -1,0 +1,18 @@
+20240502-23:37:32.150 : connected
+20240502-23:37:34.074 : Error on Session 'FIX.4.4:EXECUTOR->CLIENT1': System.Collections.Generic.KeyNotFoundException: The given key 'VALE3' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Executor.Executor.IsExpositionValid(NewOrderSingle order) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 169
+   at Executor.Executor.ProcessOrder(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 62
+   at Executor.Executor.OnMessage(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 54
+   at QuickFix.MessageCracker.Crack(Message message, SessionID sessionID)
+   at Executor.Executor.FromApp(Message message, SessionID sessionID) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 35
+   at QuickFix.Session.Verify(Message msg, Boolean checkTooHigh, Boolean checkTooLow)
+   at QuickFix.Session.Verify(Message message)
+   at QuickFix.Session.Next(MessageBuilder msgBuilder)
+   at QuickFix.Session.NextMessage(String msgStr)
+   at QuickFix.Session.Next(String msgStr)
+   at QuickFix.SocketReader.OnMessageFound(String msg)
+20240502-23:37:37.135 : SocketReader Error: Socket exception (127.0.0.1:62725): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240502-23:37:37.136 : shutdown requested: Disconnected
+20240502-23:37:37.139 : shutdown requested: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240502-23:37:37.139 : shutdown

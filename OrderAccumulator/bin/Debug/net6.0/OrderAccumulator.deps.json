@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OrderAccumulator/1.0.0": {
+        "dependencies": {
+          "QuickFix": "1.11.2.0",
+          "QuickFix.FIX44": "1.11.2.0"
+        },
+        "runtime": {
+          "OrderAccumulator.dll": {}
+        }
+      },
+      "QuickFix/1.11.2.0": {
+        "runtime": {
+          "QuickFix.dll": {
+            "assemblyVersion": "1.11.2.0",
+            "fileVersion": "1.11.2.0"
+          }
+        }
+      },
+      "QuickFix.FIX44/1.11.2.0": {
+        "runtime": {
+          "QuickFix.FIX44.dll": {
+            "assemblyVersion": "1.11.2.0",
+            "fileVersion": "1.11.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderAccumulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickFix/1.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickFix.FIX44/1.11.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

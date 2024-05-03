@@ -1,0 +1,5 @@
+20240503-00:52:47.676 : connected
+20240503-00:53:36.776 : SocketReader Error: Socket exception (127.0.0.1:64196): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240503-00:53:36.776 : shutdown requested: Disconnected
+20240503-00:53:36.779 : shutdown requested: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240503-00:53:36.779 : shutdown

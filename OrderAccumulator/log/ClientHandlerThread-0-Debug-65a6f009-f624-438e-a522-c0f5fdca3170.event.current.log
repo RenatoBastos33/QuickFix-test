@@ -1,0 +1,14 @@
+20240502-23:38:34.220 : connected
+20240502-23:38:42.192 : Error on Session 'FIX.4.4:EXECUTOR->CLIENT1': System.Collections.Generic.KeyNotFoundException: The given key 'PETR4' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Executor.Executor.IsExpositionValid(NewOrderSingle order) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 169
+   at Executor.Executor.ProcessOrder(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 62
+   at Executor.Executor.OnMessage(NewOrderSingle order, SessionID s) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 54
+   at QuickFix.MessageCracker.Crack(Message message, SessionID sessionID)
+   at Executor.Executor.FromApp(Message message, SessionID sessionID) in C:\Users\Renato Bastos\Documents\Projects\QuickfixTeste\OrderAccumulator\Executor.cs:line 35
+   at QuickFix.Session.Verify(Message msg, Boolean checkTooHigh, Boolean checkTooLow)
+   at QuickFix.Session.Verify(Message message)
+   at QuickFix.Session.Next(MessageBuilder msgBuilder)
+   at QuickFix.Session.NextMessage(String msgStr)
+   at QuickFix.Session.Next(String msgStr)
+   at QuickFix.SocketReader.OnMessageFound(String msg)

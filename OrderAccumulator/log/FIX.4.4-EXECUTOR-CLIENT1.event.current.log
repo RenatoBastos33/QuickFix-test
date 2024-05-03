@@ -1,0 +1,669 @@
+20240429-23:06:03.555 : Created session
+20240429-23:08:16.766 : Created session
+20240429-23:08:18.196 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:59662
+20240429-23:08:18.196 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240429-23:08:18.213 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:08:18.216 : Session reset: Reset requested by counterparty
+20240429-23:08:18.218 : Session reset: ResetOnLogon
+20240429-23:08:18.219 : Received logon
+20240429-23:08:18.227 : Responding to logon request
+20240429-23:08:24.743 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:59662): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:08:24.746 : Session reset: ResetOnDisconnect
+20240429-23:27:33.539 : Created session
+20240429-23:35:45.711 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 52313655 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60380
+20240429-23:35:45.711 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240429-23:35:45.727 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:35:45.731 : Session reset: Reset requested by counterparty
+20240429-23:35:45.733 : Session reset: ResetOnLogon
+20240429-23:35:45.735 : Received logon
+20240429-23:35:45.743 : Responding to logon request
+20240429-23:35:46.637 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60380): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:35:46.640 : Session reset: ResetOnDisconnect
+20240429-23:37:22.043 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 25961440 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60417
+20240429-23:37:22.043 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:37:22.043 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:37:22.047 : Session reset: Reset requested by counterparty
+20240429-23:37:22.050 : Session reset: ResetOnLogon
+20240429-23:37:22.050 : Received logon
+20240429-23:37:22.050 : Responding to logon request
+20240429-23:37:22.056 : Message 2 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.056 : Message 3 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.057 : Message 4 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.057 : Message 5 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.073 : Message 6 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.074 : Message 7 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.074 : Message 8 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.076 : Message 9 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.080 : Message 10 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.083 : Message 11 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.084 : Message 12 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.088 : Message 13 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.089 : Message 14 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.090 : Message 15 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.091 : Message 16 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.092 : Message 17 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.094 : Message 18 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.106 : Message 19 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.108 : Message 20 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.110 : Message 21 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.136 : Message 22 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.139 : Message 23 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.143 : Message 24 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.147 : Message 25 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.149 : Message 26 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.150 : Message 27 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.157 : Message 28 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.167 : Message 29 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.168 : Message 30 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.171 : Message 31 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.174 : Message 32 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.181 : Message 33 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.185 : Message 34 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.186 : Message 35 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.190 : Message 36 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.200 : Message 37 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.201 : Message 38 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.203 : Message 39 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.238 : Message 40 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.242 : Message 41 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.245 : Message 42 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.250 : Message 43 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.258 : Message 44 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.260 : Message 45 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.263 : Message 46 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.264 : Message 47 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.266 : Message 48 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.267 : Message 49 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.279 : Message 50 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.280 : Message 51 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.281 : Message 52 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.292 : Message 53 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.294 : Message 54 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.295 : Message 55 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.305 : Message 56 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.306 : Message 57 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.308 : Message 58 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.312 : Message 59 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.314 : Message 60 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.338 : Message 61 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.339 : Message 62 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.345 : Message 63 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.348 : Message 64 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.356 : Message 65 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.357 : Message 66 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.359 : Message 67 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.361 : Message 68 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.396 : Message 69 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.397 : Message 70 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.399 : Message 71 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.416 : Message 72 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.417 : Message 73 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.421 : Message 74 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.422 : Message 75 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.424 : Message 76 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.453 : Message 77 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.453 : Message 78 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.455 : Message 79 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.459 : Message 80 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.464 : Message 81 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.465 : Message 82 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.471 : Message 83 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.478 : Message 84 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.480 : Message 85 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.482 : Message 86 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.486 : Message 87 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.490 : Message 88 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.513 : Message 89 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.514 : Message 90 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.517 : Message 91 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.523 : Message 92 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.527 : Message 93 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.528 : Message 94 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.555 : Message 95 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.574 : Message 96 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.575 : Message 97 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.576 : Message 98 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.581 : Message 99 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.583 : Message 100 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.592 : Message 101 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.595 : Message 102 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.605 : Message 103 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.606 : Message 104 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.610 : Message 105 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.611 : Message 106 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.613 : Message 107 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.614 : Message 108 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.639 : Message 109 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.642 : Message 110 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.651 : Message 111 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.653 : Message 112 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.655 : Message 113 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.660 : Message 114 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.670 : Message 115 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.671 : Message 116 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.681 : Message 117 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.683 : Message 118 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.732 : Message 119 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.737 : Message 120 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.746 : Message 121 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.748 : Message 122 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.751 : Message 123 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.754 : Message 124 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.765 : Message 125 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.768 : Message 126 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.770 : Message 127 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.777 : Message 128 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.780 : Message 129 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.782 : Message 130 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.783 : Message 131 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.784 : Message 132 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.785 : Message 133 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.808 : Message 134 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.813 : Message 135 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.820 : Message 136 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.824 : Message 137 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.825 : Message 138 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.827 : Message 139 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.828 : Message 140 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.856 : Message 141 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.858 : Message 142 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.860 : Message 143 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.861 : Message 144 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.863 : Message 145 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.874 : Message 146 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.885 : Message 147 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.886 : Message 148 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.889 : Message 149 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.891 : Message 150 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.893 : Message 151 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.895 : Message 152 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.930 : Message 153 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.933 : Message 154 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.935 : Message 155 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.938 : Message 156 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.939 : Message 157 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.941 : Message 158 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.944 : Message 159 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.956 : Message 160 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.958 : Message 161 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.960 : Message 162 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.963 : Message 163 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.969 : Message 164 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.970 : Message 165 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.972 : Message 166 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.973 : Message 167 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.984 : Message 168 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.986 : Message 169 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.987 : Message 170 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.989 : Message 171 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:22.999 : Message 172 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.001 : Message 173 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.002 : Message 174 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.007 : Message 175 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.014 : Message 176 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.015 : Message 177 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.016 : Message 178 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.020 : Message 179 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.021 : Message 180 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.026 : Message 181 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.048 : Message 182 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.050 : Message 183 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.052 : Message 184 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.053 : Message 185 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.054 : Message 186 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.063 : Message 187 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.065 : Message 188 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.067 : Message 189 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.069 : Message 190 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.077 : Message 191 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.078 : Message 192 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.080 : Message 193 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.082 : Message 194 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.105 : Message 195 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.106 : Message 196 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.107 : Message 197 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.109 : Message 198 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.111 : Message 199 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.115 : Message 200 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.144 : Message 201 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.145 : Message 202 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.149 : Message 203 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.157 : Message 204 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.158 : Message 205 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.159 : Message 206 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.161 : Message 207 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.162 : Message 208 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.174 : Message 209 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.175 : Message 210 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.176 : Message 211 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.194 : Message 212 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.221 : Message 213 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.224 : Message 214 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.244 : Message 215 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.245 : Message 216 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.248 : Message 217 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.249 : Message 218 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.252 : Message 219 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.254 : Message 220 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.259 : Message 221 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.269 : Message 222 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.277 : Message 223 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.287 : Message 224 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.291 : Message 225 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.292 : Message 226 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.295 : Message 227 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.297 : Message 228 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.299 : Message 229 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.300 : Message 230 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.302 : Message 231 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.318 : Message 232 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.319 : Message 233 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.323 : Message 234 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.340 : Message 235 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.342 : Message 236 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.343 : Message 237 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.380 : Message 238 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.382 : Message 239 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.384 : Message 240 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.385 : Message 241 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.387 : Message 242 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.388 : Message 243 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.392 : Message 244 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.394 : Message 245 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.395 : Message 246 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.397 : Message 247 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.407 : Message 248 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.408 : Message 249 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.410 : Message 250 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.419 : Message 251 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.421 : Message 252 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.424 : Message 253 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.425 : Message 254 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.427 : Message 255 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.429 : Message 256 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.468 : Message 257 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.473 : Message 258 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.473 : Message 259 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.476 : Message 260 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.478 : Message 261 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.480 : Message 262 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.481 : Message 263 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.483 : Message 264 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.484 : Message 265 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.486 : Message 266 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.489 : Message 267 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.491 : Message 268 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.502 : Message 269 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.503 : Message 270 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.506 : Message 271 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.509 : Message 272 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.510 : Message 273 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.517 : Message 274 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.519 : Message 275 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.520 : Message 276 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.523 : Message 277 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.532 : Message 278 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.534 : Message 279 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.536 : Message 280 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.539 : Message 281 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.572 : Message 282 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.574 : Message 283 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.575 : Message 284 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.577 : Message 285 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.579 : Message 286 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.581 : Message 287 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.584 : Message 288 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.602 : Message 289 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.604 : Message 290 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.606 : Message 291 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.607 : Message 292 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.608 : Message 293 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.609 : Message 294 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.610 : Message 295 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.611 : Message 296 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.612 : Message 297 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.613 : Message 298 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.614 : Message 299 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.615 : Message 300 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.616 : Message 301 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.623 : Message 302 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.625 : Message 303 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.626 : Message 304 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.627 : Message 305 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.628 : Message 306 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.629 : Message 307 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.647 : Message 308 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.649 : Message 309 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.652 : Message 310 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.667 : Message 311 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.669 : Message 312 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.671 : Message 313 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.673 : Message 314 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.674 : Message 315 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.677 : Message 316 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.677 : Message 317 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.681 : Message 318 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.696 : Message 319 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.699 : Message 320 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.718 : Message 321 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.719 : Message 322 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.721 : Message 323 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.724 : Message 324 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.737 : Message 325 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.739 : Message 326 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.740 : Message 327 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.750 : Message 328 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.752 : Message 329 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.754 : Message 330 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.787 : Message 331 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.789 : Message 332 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.798 : Message 333 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.799 : Message 334 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.801 : Message 335 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.811 : Message 336 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.812 : Message 337 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.815 : Message 338 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.816 : Message 339 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.856 : Message 340 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.860 : Message 341 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.861 : Message 342 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.863 : Message 343 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.864 : Message 344 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.868 : Message 345 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.875 : Message 346 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.879 : Message 347 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.884 : Message 348 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.892 : Message 349 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.895 : Message 350 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.897 : Message 351 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.902 : Message 352 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.909 : Message 353 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.910 : Message 354 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.913 : Message 355 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.918 : Message 356 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.945 : Message 357 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.949 : Message 358 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.949 : Message 359 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.950 : Message 360 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.950 : Message 361 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.950 : Message 362 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.951 : Message 363 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.951 : Message 364 Rejected: Value is incorrect (out of range) for this tag (Field=40)
+20240429-23:37:23.955 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60417): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:37:23.958 : Session reset: ResetOnDisconnect
+20240429-23:37:49.589 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 27412112 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60432
+20240429-23:37:49.589 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:37:49.589 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:37:49.593 : Session reset: Reset requested by counterparty
+20240429-23:37:49.596 : Session reset: ResetOnLogon
+20240429-23:37:49.596 : Received logon
+20240429-23:37:49.597 : Responding to logon request
+20240429-23:37:50.541 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60432): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:37:50.544 : Session reset: ResetOnDisconnect
+20240429-23:39:56.957 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 47179427 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60482
+20240429-23:39:56.957 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:39:56.957 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:39:56.960 : Session reset: Reset requested by counterparty
+20240429-23:39:56.962 : Session reset: ResetOnLogon
+20240429-23:39:56.962 : Received logon
+20240429-23:39:56.963 : Responding to logon request
+20240429-23:39:57.888 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60482): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:39:57.891 : Session reset: ResetOnDisconnect
+20240429-23:40:20.877 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 2929101 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60494
+20240429-23:40:20.877 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:40:20.878 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:40:20.880 : Session reset: Reset requested by counterparty
+20240429-23:40:20.883 : Session reset: ResetOnLogon
+20240429-23:40:20.883 : Received logon
+20240429-23:40:20.883 : Responding to logon request
+20240429-23:40:21.823 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60494): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:40:21.825 : Session reset: ResetOnDisconnect
+20240429-23:43:05.352 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 8718417 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60558
+20240429-23:43:05.352 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:43:05.352 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:43:05.355 : Session reset: Reset requested by counterparty
+20240429-23:43:05.357 : Session reset: ResetOnLogon
+20240429-23:43:05.357 : Received logon
+20240429-23:43:05.357 : Responding to logon request
+20240429-23:43:34.171 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60558): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:43:34.173 : Session reset: ResetOnDisconnect
+20240429-23:43:59.715 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 20737128 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60583
+20240429-23:43:59.715 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:43:59.716 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:43:59.718 : Session reset: Reset requested by counterparty
+20240429-23:43:59.720 : Session reset: ResetOnLogon
+20240429-23:43:59.720 : Received logon
+20240429-23:43:59.721 : Responding to logon request
+20240429-23:44:25.061 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60583): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:44:25.063 : Session reset: ResetOnDisconnect
+20240429-23:44:28.019 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 26154017 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60595
+20240429-23:44:28.019 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:44:28.019 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:44:28.021 : Session reset: Reset requested by counterparty
+20240429-23:44:28.024 : Session reset: ResetOnLogon
+20240429-23:44:28.024 : Received logon
+20240429-23:44:28.024 : Responding to logon request
+20240429-23:44:46.544 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60595): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:44:46.546 : Session reset: ResetOnDisconnect
+20240429-23:45:01.085 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 1739147 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60611
+20240429-23:45:01.085 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:45:01.085 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:45:01.087 : Session reset: Reset requested by counterparty
+20240429-23:45:01.089 : Session reset: ResetOnLogon
+20240429-23:45:01.090 : Received logon
+20240429-23:45:01.090 : Responding to logon request
+20240429-23:45:37.333 : Sent test request TEST
+20240429-23:46:13.618 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20240429-23:46:13.621 : Session reset: ResetOnDisconnect
+20240429-23:50:41.037 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 11448689 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60751
+20240429-23:50:41.037 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:50:41.037 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:50:41.040 : Session reset: Reset requested by counterparty
+20240429-23:50:41.042 : Session reset: ResetOnLogon
+20240429-23:50:41.042 : Received logon
+20240429-23:50:41.042 : Responding to logon request
+20240429-23:50:41.969 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60751): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:50:41.972 : Session reset: ResetOnDisconnect
+20240429-23:53:26.991 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 31031621 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60825
+20240429-23:53:26.991 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:53:26.991 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:53:26.994 : Session reset: Reset requested by counterparty
+20240429-23:53:26.998 : Session reset: ResetOnLogon
+20240429-23:53:26.998 : Received logon
+20240429-23:53:26.998 : Responding to logon request
+20240429-23:53:31.753 : Rejecting invalid message, field not found: field not found for tag: 38
+20240429-23:53:31.753 : Reject sent for Message: 2 Reason:Conditionally Required Field Missing
+20240429-23:53:31.769 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60825): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:53:31.772 : Session reset: ResetOnDisconnect
+20240429-23:53:36.611 : Created session
+20240429-23:53:39.836 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60844
+20240429-23:53:39.836 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240429-23:53:39.852 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:53:39.855 : Session reset: Reset requested by counterparty
+20240429-23:53:39.858 : Session reset: ResetOnLogon
+20240429-23:53:39.859 : Received logon
+20240429-23:53:39.867 : Responding to logon request
+20240429-23:53:39.900 : Rejecting invalid message, field not found: field not found for tag: 38
+20240429-23:53:39.901 : Reject sent for Message: 2 Reason:Conditionally Required Field Missing
+20240429-23:53:40.753 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60844): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:53:40.756 : Session reset: ResetOnDisconnect
+20240429-23:57:23.708 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 28589617 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60933
+20240429-23:57:23.708 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:57:23.708 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:57:23.710 : Session reset: Reset requested by counterparty
+20240429-23:57:23.713 : Session reset: ResetOnLogon
+20240429-23:57:23.713 : Received logon
+20240429-23:57:23.713 : Responding to logon request
+20240429-23:57:45.480 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60933): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:57:45.483 : Session reset: ResetOnDisconnect
+20240429-23:57:48.311 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 40045925 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60945
+20240429-23:57:48.311 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240429-23:57:48.311 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:57:48.314 : Session reset: Reset requested by counterparty
+20240429-23:57:48.316 : Session reset: ResetOnLogon
+20240429-23:57:48.316 : Received logon
+20240429-23:57:48.317 : Responding to logon request
+20240429-23:58:33.489 : Created session
+20240429-23:58:33.672 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:60968
+20240429-23:58:33.673 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240429-23:58:33.689 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240429-23:58:33.692 : Session reset: Reset requested by counterparty
+20240429-23:58:33.694 : Session reset: ResetOnLogon
+20240429-23:58:33.696 : Received logon
+20240429-23:58:33.703 : Responding to logon request
+20240429-23:58:55.356 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:60968): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240429-23:58:55.359 : Session reset: ResetOnDisconnect
+20240430-00:03:53.823 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 21296749 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:61096
+20240430-00:03:53.823 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:03:53.825 : Session reset: New session (detected in Next(Message))
+20240430-00:03:53.826 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:03:53.828 : Session reset: Reset requested by counterparty
+20240430-00:03:53.830 : Session reset: ResetOnLogon
+20240430-00:03:53.830 : Received logon
+20240430-00:03:53.831 : Responding to logon request
+20240430-00:03:55.411 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:61096): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:03:55.413 : Session reset: ResetOnDisconnect
+20240430-00:04:09.824 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 243581 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:61105
+20240430-00:04:09.824 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:04:09.824 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:04:09.826 : Session reset: Reset requested by counterparty
+20240430-00:04:09.829 : Session reset: ResetOnLogon
+20240430-00:04:09.829 : Received logon
+20240430-00:04:09.829 : Responding to logon request
+20240430-00:04:10.764 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:61105): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:04:10.766 : Session reset: ResetOnDisconnect
+20240430-00:17:46.478 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 26066236 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:61477
+20240430-00:17:46.478 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:17:46.478 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:17:46.482 : Session reset: Reset requested by counterparty
+20240430-00:17:46.485 : Session reset: ResetOnLogon
+20240430-00:17:46.485 : Received logon
+20240430-00:17:46.485 : Responding to logon request
+20240430-00:17:53.050 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:61477): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:17:53.052 : Session reset: ResetOnDisconnect
+20240430-00:22:52.405 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 51099439 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:61599
+20240430-00:22:52.405 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:22:52.405 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:22:52.408 : Session reset: Reset requested by counterparty
+20240430-00:22:52.410 : Session reset: ResetOnLogon
+20240430-00:22:52.411 : Received logon
+20240430-00:22:52.411 : Responding to logon request
+20240430-00:23:11.734 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:61599): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:23:11.737 : Session reset: ResetOnDisconnect
+20240430-00:36:29.652 : Created session
+20240430-00:36:47.401 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 42018967 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:61970
+20240430-00:36:47.401 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240430-00:36:47.419 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:36:47.422 : Session reset: Reset requested by counterparty
+20240430-00:36:47.425 : Session reset: ResetOnLogon
+20240430-00:36:47.426 : Received logon
+20240430-00:36:47.434 : Responding to logon request
+20240430-00:36:51.286 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:61970): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:36:51.289 : Session reset: ResetOnDisconnect
+20240430-00:39:38.234 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 21296749 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62033
+20240430-00:39:38.234 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:39:38.234 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:39:38.237 : Session reset: Reset requested by counterparty
+20240430-00:39:38.239 : Session reset: ResetOnLogon
+20240430-00:39:38.239 : Received logon
+20240430-00:39:38.240 : Responding to logon request
+20240430-00:39:52.438 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:62033): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:39:52.441 : Session reset: ResetOnDisconnect
+20240430-00:40:05.823 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 39891323 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62049
+20240430-00:40:05.823 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:40:05.823 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:40:05.826 : Session reset: Reset requested by counterparty
+20240430-00:40:05.828 : Session reset: ResetOnLogon
+20240430-00:40:05.828 : Received logon
+20240430-00:40:05.829 : Responding to logon request
+20240430-00:40:15.744 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:62049): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:40:15.747 : Session reset: ResetOnDisconnect
+20240430-00:40:53.320 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 63876281 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62070
+20240430-00:40:53.320 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:40:53.320 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:40:53.323 : Session reset: Reset requested by counterparty
+20240430-00:40:53.325 : Session reset: ResetOnLogon
+20240430-00:40:53.325 : Received logon
+20240430-00:40:53.325 : Responding to logon request
+20240430-00:41:01.720 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:62070): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:41:01.723 : Session reset: ResetOnDisconnect
+20240430-00:41:17.987 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 51099439 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62080
+20240430-00:41:17.987 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:41:17.987 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:41:17.990 : Session reset: Reset requested by counterparty
+20240430-00:41:17.992 : Session reset: ResetOnLogon
+20240430-00:41:17.992 : Received logon
+20240430-00:41:17.992 : Responding to logon request
+20240430-00:41:25.387 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:62080): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:41:25.390 : Session reset: ResetOnDisconnect
+20240430-00:41:40.060 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 36120876 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62090
+20240430-00:41:40.060 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 30 seconds
+20240430-00:41:40.060 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-00:41:40.063 : Session reset: Reset requested by counterparty
+20240430-00:41:40.065 : Session reset: ResetOnLogon
+20240430-00:41:40.065 : Received logon
+20240430-00:41:40.066 : Responding to logon request
+20240430-00:41:49.266 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:62090): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-00:41:49.268 : Session reset: ResetOnDisconnect
+20240430-01:05:45.888 : Created session
+20240430-01:05:57.201 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 42018967 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:62756
+20240430-01:05:57.201 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240430-01:05:57.218 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-01:05:57.221 : Session reset: Reset requested by counterparty
+20240430-01:05:57.223 : Session reset: ResetOnLogon
+20240430-01:05:57.225 : Received logon
+20240430-01:05:57.233 : Responding to logon request
+20240430-01:52:25.164 : Created session
+20240430-01:52:29.870 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 42018967 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:64057
+20240430-01:52:29.870 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240430-01:52:29.886 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-01:52:29.889 : Session reset: Reset requested by counterparty
+20240430-01:52:29.892 : Session reset: ResetOnLogon
+20240430-01:52:29.893 : Received logon
+20240430-01:52:29.901 : Responding to logon request
+20240430-01:53:32.309 : Created session
+20240430-01:53:33.781 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:64089
+20240430-01:53:33.782 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240430-01:53:33.797 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-01:53:33.801 : Session reset: Reset requested by counterparty
+20240430-01:53:33.803 : Session reset: ResetOnLogon
+20240430-01:53:33.804 : Received logon
+20240430-01:53:33.812 : Responding to logon request
+20240430-01:53:44.343 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:64089): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240430-01:53:44.346 : Session reset: ResetOnDisconnect
+20240430-01:55:11.572 : Created session
+20240430-01:55:13.846 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:64142
+20240430-01:55:13.846 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240430-01:55:13.863 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240430-01:55:13.866 : Session reset: Reset requested by counterparty
+20240430-01:55:13.868 : Session reset: ResetOnLogon
+20240430-01:55:13.870 : Received logon
+20240430-01:55:13.878 : Responding to logon request
+20240502-22:40:17.348 : Session FIX.4.4:EXECUTOR->CLIENT1 already disconnected: Resetting...
+20240502-22:40:17.356 : Session reset: New session
+20240502-22:40:17.357 : Created session
+20240502-22:40:22.677 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 42018967 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:49709
+20240502-22:40:22.677 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240502-22:40:22.704 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240502-22:40:22.707 : Session reset: Reset requested by counterparty
+20240502-22:40:22.709 : Session reset: ResetOnLogon
+20240502-22:40:22.711 : Received logon
+20240502-22:40:22.719 : Responding to logon request
+20240502-22:40:43.847 : Session FIX.4.4:EXECUTOR->CLIENT1 disconnecting: Socket exception (127.0.0.1:49709): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240502-22:40:43.850 : Session reset: ResetOnDisconnect
+20240502-22:42:37.332 : Created session
+20240502-22:42:39.990 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:50432
+20240502-22:42:39.990 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240502-22:42:40.006 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240502-22:42:40.009 : Session reset: Reset requested by counterparty
+20240502-22:42:40.012 : Session reset: ResetOnLogon
+20240502-22:42:40.013 : Received logon
+20240502-22:42:40.021 : Responding to logon request
+20240502-22:43:12.234 : Created session
+20240502-22:43:14.215 : FIX.4.4:EXECUTOR->CLIENT1 Socket Reader 4032828 accepting session FIX.4.4:EXECUTOR->CLIENT1 from 127.0.0.1:50547
+20240502-22:43:14.216 : FIX.4.4:EXECUTOR->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240502-22:43:14.232 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240502-22:43:14.235 : Session reset: Reset requested by counterparty
+20240502-22:43:14.237 : Session reset: ResetOnLogon
+20240502-22:43:14.239 : Received logon
+20240502-22:43:14.247 : Responding to logon request

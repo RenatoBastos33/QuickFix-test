@@ -1,0 +1,15 @@
+20240502-23:08:11.537 : connected
+20240502-23:08:14.248 : shutdown requested: reactor is shutting down
+20240502-23:08:14.647 : SocketReader Error: System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.Strategies.BufferedFileStreamStrategy.Seek(Int64 offset, SeekOrigin origin)
+   at System.IO.FileStream.Seek(Int64 offset, SeekOrigin origin)
+   at QuickFix.FileStore.Set(UInt64 msgSeqNum, String msg)
+   at QuickFix.SessionState.Set(UInt64 msgSeqNum, String msg)
+   at QuickFix.Session.Persist(Message message, String messageString)
+   at QuickFix.Session.SendRaw(Message message, UInt64 seqNum)
+   at QuickFix.Session.GenerateLogout(Message other, String text)
+   at QuickFix.Session.GenerateLogout(String text)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20240502-23:08:14.647 : shutdown requested: Cannot access a closed Stream.
+20240502-23:08:14.647 : shutdown
